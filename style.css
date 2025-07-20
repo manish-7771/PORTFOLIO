@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    gap:80px;
+    margin: auto;
+}
+.page-width{
+    max-width: 1600px;
+}
+.pad-40{
+    padding: 40px;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    display: flex;
+
+}
+.gap-20{
+    display:flex;
+    gap:20px;
+}
+.header{
+    max-height: 150px;
+    background: #42A7B3;
+    color: white;
+    justify-content: space-between;
+}
